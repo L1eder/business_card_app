@@ -2,5 +2,12 @@
     <string name="app_name" translatable="false">Business card app</string>
     <string name="name_and_surname" translatable="false">Lydia Zhuikova</string>
     <string name="profession_description" translatable="false">software engineering student</string>
+    <string name="phone_number" translatable="false">+7999-999-99-99</string>
+    <string name="github_link" translatable="false">github.com/L1eder</string>
+    <string name="email" translatable="false">lydia.zhuikova@gmail.com</string>
+
     <string name="logo_description" translatable="false">Android logo</string>
+    <string name="call_logo_description" translatable="false">Call logo, mobile number</string>
+    <string name="share_logo_description" translatable="false">Share logo, github link</string>
+    <string name="mail_logo_description" translatable="false">Mail logo, email link</string>
 </resources>
